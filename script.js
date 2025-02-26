@@ -1,5 +1,4 @@
 // DOMContentLoaded 이벤트가 발생하면 내부의 콜백 함수가 실행됨.
-// 즉, HTML 문서가 모두 로드된 후에 아래 코드들이 실행됨.
 document.addEventListener("DOMContentLoaded", function(e) {
   
     // ============================
